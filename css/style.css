@@ -1,0 +1,24 @@
+.num {
+    font-size: 30px;
+    color: red;
+    background-color:black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#reset {
+    font-size: 40px;
+    color: rgb(47, 0, 255);
+    background-color: rgb(231, 231, 231);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+.difficulty {
+    font-size: 20px;
+    padding-right: 30px;
+    padding-left: 10px;
+    color: blue
+}
